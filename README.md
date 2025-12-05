@@ -2,23 +2,22 @@
 
 ### Bridging research and deployment in AI, vision, and security
 
-- 🔭 I'm currently working on **Building reliable AI systems for environmental monitoring using SAR and real-world deployment pipelines
-**
+- 🔭 I'm currently working on Building reliable AI systems for environmental monitoring using SAR and real-world deployment pipelines
 
-- 🌱 I'm currently learning **Reliable AI systems, scalable ML pipelines, and deployment-focused engineering
-**
+- 🌱 I'm currently learning Reliable AI systems, scalable ML pipelines, and deployment-focused engineering
 
-- 👯 I'm looking to collaborate on **Real-world computer vision systems, deployment-focused research, and trustworthy AI for high-impact applications
-**
 
-- 💬 Ask me about **Computer Vision, PyTorch, model optimization, multimodal AI systems, and deploying ML pipelines in production
-**
+- 👯 I'm looking to collaborate on Real-world computer vision systems, deployment-focused research, and trustworthy AI for high-impact applications
+
+
+- 💬 Ask me about Computer Vision, PyTorch, model optimization, multimodal AI systems, and deploying ML pipelines in production
+
 
 - 📫 How to reach me **shantanu170604@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ShantanuDhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShantanuDhar" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/shantanu-dhar-978738257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanu-dhar-978738257" height="30" width="40" /></a>
 </p>
 
